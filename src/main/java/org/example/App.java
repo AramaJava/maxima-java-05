@@ -17,6 +17,18 @@ package org.example;
    В качестве такого класса данных использовать
    класс Cat из модуля 3.
 */
+
+/*
+    Задача:
+        Установить Tomcat
+        Cделать генерацию страницы через обращение к сервлету и передачу ему параметров кота:
+        String name
+        int weight
+        boolean isAngry
+*/
+
+
+
 public class App {
     public static void main(String[] args) {
 
